@@ -1,22 +1,25 @@
-# FUTURE_DS_01
+# 🚀 FUTURE_DS_01 - Customer Sentiment Analysis  
+**Repository Link:** [FUTURE_DS_01](https://github.com/Gyanankur23/FUTURE_DS_01.git)  
 
-🚀 FUTURE_DS_01 - Customer Sentiment Analysis
-Repository Link: FUTURE_DS_01
-📌 Overview
-This repository contains a complete customer sentiment analysis project using Power BI, Python, and SQL to analyze social media engagement across various platforms.
-📂 Contents
-✅ Power BI Dashboard (PBIT Template) → Interactive data visualization
-✅ Python Data Visualization Script (Customer_Sentiment_Analysis.py) → Generates sentiment trends and engagement insights
-✅ SQL Queries for Insights (Customer_Sentiment_Queries.sql) → Structured data analysis
-✅ Raw Dataset (TAsk1FutureInterns.xlsx) → Available for ease of accessibility
-✅ Screenshots (output/) → Visual representation of the results
+## 📌 Overview  
+This repository contains a **complete customer sentiment analysis** project using **Power BI, Python, and SQL** to analyze social media engagement across various platforms.  
 
-🔥 How to Clone This Repository
-Run the following command to clone the repo:
+### **📂 Contents**
+✅ **Power BI Dashboard (PBIT Template)** → Interactive data visualization  
+✅ **Python Data Visualization Script** (`Customer_Sentiment_Analysis.py`) → Generates sentiment trends and engagement insights  
+✅ **SQL Queries for Insights** (`Customer_Sentiment_Queries.sql`) → Structured data analysis  
+✅ **Raw Dataset** (`TAsk1FutureInterns.xlsx`) → Available for ease of accessibility  
+✅ **Screenshots** (`output/`) → Visual representation of the results  
+
+---
+
+## 🔥 How to Clone This Repository  
+Run the following command to **clone the repo**:
+```sh
 git clone https://github.com/Gyanankur23/FUTURE_DS_01.git
 cd FUTURE_DS_01
 
-
+
 
 🏆 Power BI Dashboard (TAsk1FutureInterns.pbit)
 📊 Features
@@ -74,7 +77,7 @@ ORDER BY Month_Year;
 
 
 📂 Dataset - TAsk1FutureInterns.xlsx
-For ease of accessibility, the dataset is also available in the repository.
+For ease of accessibility, the dataset is available in the repository.
 
 ⚖️ License
 This project is licensed under the MIT License.
@@ -88,4 +91,6 @@ in the Software without restriction.
 
 
 
-🎯 Now your README.md is structured, visually appealing, and covers everything! 🚀 Let me know if you'd like any refinements!
+🎯 Now your README.md is ready in perfect Markdown format! 🚀 You can directly upload this to GitHub and it will render properly. Let me know if you need any modifications!
+
+
