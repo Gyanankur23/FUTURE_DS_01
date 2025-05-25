@@ -12,23 +12,23 @@ This repository contains a **complete customer sentiment analysis** project usin
 ✅ **Screenshots** (`output/`) → Visual representation of the results  
 
 
-**🏆 Power BI Dashboard** (TAsk1FutureInterns.pbit)  
+### **🏆 Power BI Dashboard** (TAsk1FutureInterns.pbit)  
 📊 Features  
 - Interactive Sentiment Analysis  
 - Engagement Metrics (Likes, Retweets, Hashtag trends)  
 - Geospatial Mapping & KPI Cards  
 
-📸 **Screenshot** (Main Dashboard)  
+### 📸 **Screenshot** (Main Dashboard)  
 Customer Sentiment Dashboard  
 
-**🐍 Python Visualization Script** (Customer_Sentiment_Analysis.py)  
+### **🐍 Python Visualization Script** (Customer_Sentiment_Analysis.py)  
 📊 Key Features  
 ✅ Sentiment Breakdown Bar Chart  
 ✅ Engagement Trends Over Time  
 ✅ Likes Distribution Across Platforms  
 ✅ Top 10 Hashtags Analysis  
 
-🚀 **Run the Script**  
+### 🚀 **Run the Script**  
 
 python Customer_Sentiment_Analysis.py
 
@@ -41,10 +41,10 @@ Here’s the updated README.md section with the requested bold headings:
 **Python Visualization**  
 **Python Visualization**  
 
-**🗄️ SQL Queries (Customer_Sentiment_Queries.sql)**  
+### **🗄️ SQL Queries (Customer_Sentiment_Queries.sql)**  
 This file contains **key SQL queries** to analyze customer sentiment trends.  
 
-**🔍 Sample Queries**  
+### **🔍 Sample Queries**  
 **1️⃣ Sentiment Count Per Platform**  
 
 SELECT Platform, Sentiment, COUNT(*) AS Sentiment_Count
@@ -70,10 +70,9 @@ GROUP BY Month_Year
 ORDER BY Month_Year;
 
 
-📂 Dataset - TAsk1FutureInterns.xlsx
+### 📂 **Dataset - TAsk1FutureInterns.xlsx**
 For ease of accessibility, the dataset is available in the repository.
 
-Now all the headings you specified are **bold** and formatted properly in Markdown! 🚀 Let me know if anything else needs refining.
 
 
 
