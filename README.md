@@ -52,7 +52,7 @@ FROM Customer_Sentiment
 GROUP BY Platform, Sentiment
 ORDER BY Platform, Sentiment_Count DESC;
 
-
+
 2️⃣ Most Engaging Hashtags
 SELECT Hashtags, SUM(Likes + Retweets) AS Total_Engagement
 FROM Customer_Sentiment
@@ -73,27 +73,18 @@ ORDER BY Month_Year;
 ### 📂 **Dataset - TAsk1FutureInterns.xlsx**
 For ease of accessibility, the dataset is available in the repository.
 
-
-
-
 ## 🔥 How to Clone This Repository  
 Run the following command to **clone the repo**:
-```sh
+
 git clone https://github.com/Gyanankur23/FUTURE_DS_01.git
 cd FUTURE_DS_01
 
-⚖️ License
+### ⚖️ **License**
 This project is licensed under the MIT License.
 MIT License
 
-Copyright (c) 2025 Gyanankur Baruah
+**Copyright (c) 2025 Gyanankur Baruah**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction.
-
-
-
-🎯 Now your README.md is ready in perfect Markdown format! 🚀 You can directly upload this to GitHub and it will render properly. Let me know if you need any modifications!
-
-
