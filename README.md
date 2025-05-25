@@ -11,9 +11,7 @@ This repository contains a **complete customer sentiment analysis** project usin
 ✅ **Raw Dataset** (`TAsk1FutureInterns.xlsx`) → Available for ease of accessibility  
 ✅ **Screenshots** (`output/`) → Visual representation of the results  
 
----
 
-
 **🏆 Power BI Dashboard** (TAsk1FutureInterns.pbit)  
 📊 Features  
 - Interactive Sentiment Analysis  
