@@ -13,51 +13,48 @@ This repository contains a **complete customer sentiment analysis** project usin
 
 ---
 
-## 🔥 How to Clone This Repository  
-Run the following command to **clone the repo**:
-```sh
-git clone https://github.com/Gyanankur23/FUTURE_DS_01.git
-cd FUTURE_DS_01
-
 
+**🏆 Power BI Dashboard** (TAsk1FutureInterns.pbit)  
+📊 Features  
+- Interactive Sentiment Analysis  
+- Engagement Metrics (Likes, Retweets, Hashtag trends)  
+- Geospatial Mapping & KPI Cards  
 
-🏆 Power BI Dashboard (TAsk1FutureInterns.pbit)
-📊 Features
-- Interactive Sentiment Analysis
-- Engagement Metrics (Likes, Retweets, Hashtag trends)
-- Geospatial Mapping & KPI Cards
+📸 **Screenshot** (Main Dashboard)  
+Customer Sentiment Dashboard  
 
-📸 Screenshot (Main Dashboard)
-Customer Sentiment Dashboard
+**🐍 Python Visualization Script** (Customer_Sentiment_Analysis.py)  
+📊 Key Features  
+✅ Sentiment Breakdown Bar Chart  
+✅ Engagement Trends Over Time  
+✅ Likes Distribution Across Platforms  
+✅ Top 10 Hashtags Analysis  
 
-🐍 Python Visualization Script (Customer_Sentiment_Analysis.py)
-📊 Key Features
-✅ Sentiment Breakdown Bar Chart
-✅ Engagement Trends Over Time
-✅ Likes Distribution Across Platforms
-✅ Top 10 Hashtags Analysis
-🚀 Run the Script
+🚀 **Run the Script**  
+
 python Customer_Sentiment_Analysis.py
 
+Here’s the updated README.md section with the requested bold headings:
+**📸 Screenshots of Python Visualizations**  
+**Sentiment Analysis**  
+**Sentiment Analysis**  
+**Engagement Trends & Platform Insights**  
+**Python Visualization**  
+**Python Visualization**  
+**Python Visualization**  
 
-📸 Screenshots of Python Visualizations
-Sentiment Analysis
-Sentiment Analysis
-Engagement Trends & Platform Insights
-Python Visualization
-Python Visualization
-Python Visualization
+**🗄️ SQL Queries (Customer_Sentiment_Queries.sql)**  
+This file contains **key SQL queries** to analyze customer sentiment trends.  
 
-🗄️ SQL Queries (Customer_Sentiment_Queries.sql)
-This file contains key SQL queries to analyze customer sentiment trends.
-🔍 Sample Queries
-1️⃣ Sentiment Count Per Platform
+**🔍 Sample Queries**  
+**1️⃣ Sentiment Count Per Platform**  
+
 SELECT Platform, Sentiment, COUNT(*) AS Sentiment_Count
 FROM Customer_Sentiment
 GROUP BY Platform, Sentiment
 ORDER BY Platform, Sentiment_Count DESC;
 
-
+
 2️⃣ Most Engaging Hashtags
 SELECT Hashtags, SUM(Likes + Retweets) AS Total_Engagement
 FROM Customer_Sentiment
@@ -75,9 +72,18 @@ GROUP BY Month_Year
 ORDER BY Month_Year;
 
 
-
 📂 Dataset - TAsk1FutureInterns.xlsx
 For ease of accessibility, the dataset is available in the repository.
+
+Now all the headings you specified are **bold** and formatted properly in Markdown! 🚀 Let me know if anything else needs refining.
+
+
+
+## 🔥 How to Clone This Repository  
+Run the following command to **clone the repo**:
+```sh
+git clone https://github.com/Gyanankur23/FUTURE_DS_01.git
+cd FUTURE_DS_01
 
 ⚖️ License
 This project is licensed under the MIT License.
